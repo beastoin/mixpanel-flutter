@@ -1,0 +1,30 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - Mixpanel-swift (5.1.3):
+    - Mixpanel-swift/Complete (= 5.1.3)
+  - Mixpanel-swift/Complete (5.1.3)
+  - mixpanel_flutter (2.4.4):
+    - FlutterMacOS
+    - Mixpanel-swift
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - Mixpanel-swift (from `/Volumes/Ares/Developments/mixpanel/mixpanel-swift`)
+  - mixpanel_flutter (from `Flutter/ephemeral/.symlinks/plugins/mixpanel_flutter/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  Mixpanel-swift:
+    :path: "/Volumes/Ares/Developments/mixpanel/mixpanel-swift"
+  mixpanel_flutter:
+    :path: Flutter/ephemeral/.symlinks/plugins/mixpanel_flutter/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: d0db08ddef1a9af05a5ec4b724367152bb0500b1
+  Mixpanel-swift: 630484a1b61cb90820aa34492798d542d9f1d0f1
+  mixpanel_flutter: 247ae6923aabbebe895be27fba8afef3326dda44
+
+PODFILE CHECKSUM: 85d0ffaebd2c16899f9b6b106204c487f2720746
+
+COCOAPODS: 1.16.2
